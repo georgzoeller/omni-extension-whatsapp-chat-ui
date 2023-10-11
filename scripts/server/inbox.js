@@ -2,9 +2,9 @@
 
 const inbox= [
   {
-    id: "38v8ury2e7eleynh2h3",
-    name: "John Smith",
-    image: "./assets/images/boy1.webp",
+    id: "72fecbf3-0080-4134-91be-2c6f155aa503",
+    name: "Alfred the LLM Butler",
+    image: "/butler.png",
     lastMessage: "Testing",
     notificationsCount: 5,
     messageStatus: "SENT",
