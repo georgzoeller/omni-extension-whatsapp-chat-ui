@@ -1,0 +1,8 @@
+title: WhatsApp Like Chat UI extension
+version: 0.0.1
+description: Adds a 'WhatsApp-Like Web UI' based on https://github.com/jazimabbas/whatsapp-web-ui to Omnitool, providing chat with OmniTool powered recipes in a familiar environment.
+author: Georg Zoeller
+client:
+  addToWorkbench: true
+supports:
+  blocks:v2
