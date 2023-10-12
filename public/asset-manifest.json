@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/extensions/omni-extension-wa-chat-ui/static/js/main.bccedb19.js",
+    "main.js": "/extensions/omni-extension-wa-chat-ui/static/js/main.46332434.js",
     "static/js/613.34815a4a.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/613.34815a4a.chunk.js",
     "static/js/927.a1f73684.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/927.a1f73684.chunk.js",
     "static/js/483.55b211ad.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/483.55b211ad.chunk.js",
@@ -8,7 +8,7 @@
     "static/js/307.5665f1da.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/307.5665f1da.chunk.js",
     "static/js/806.bb2c7548.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/806.bb2c7548.chunk.js",
     "index.html": "/extensions/omni-extension-wa-chat-ui/index.html",
-    "main.bccedb19.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/main.bccedb19.js.map",
+    "main.46332434.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/main.46332434.js.map",
     "613.34815a4a.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/613.34815a4a.chunk.js.map",
     "927.a1f73684.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/927.a1f73684.chunk.js.map",
     "483.55b211ad.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/483.55b211ad.chunk.js.map",
@@ -17,6 +17,6 @@
     "806.bb2c7548.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/806.bb2c7548.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bccedb19.js"
+    "static/js/main.46332434.js"
   ]
 }
