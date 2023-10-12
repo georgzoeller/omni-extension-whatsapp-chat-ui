@@ -2,15 +2,15 @@
 
 const inbox= [
   {
-    id: "0342b00d-7823-4f32-a321-3ec6af6a5ff0",
-    name: "Alfred the LLM Butler",
-    image: "/butler.png",
+    id: "System",
+    name: "System",
+    image: "/omni.png",
     lastMessage: "At your service!",
-    notificationsCount: 5,
-    messageStatus: "SENT",
+    notificationsCount: 1,
+    messageStatus: "READ",
     timestamp: "08:21",
     isPinned: true,
-  },
+  }/*,
   {
     id: "d79a4052-5937-4df2-8328-21d3d2192db2",
     name: "George VI - The Toastmaster Coach",
@@ -30,7 +30,7 @@ const inbox= [
     notificationsCount: 0,
     messageStatus: "DELIVERED",
     timestamp: "6:47",
-  },
+  },*/
 
 ];
 
