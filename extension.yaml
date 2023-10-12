@@ -5,5 +5,9 @@ author: Georg Zoeller
 origin: https://github.com/georgzoeller/omni-extension-whatsapp-chat-ui.git
 client:
   addToWorkbench: true
+  winbox:
+    minwidth: 1024
+    width: 1200
+    minheight: 600
 supports:
   blocks:v2

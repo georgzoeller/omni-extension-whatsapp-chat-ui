@@ -186,9 +186,24 @@ const script = {
   exec: async function (ctx, payload) {
     const chatId = payload.chatId;
     const sessionId = ctx.sessionId;
+
+    let msg = messages.concat([])
+
+    if (chatId === "0342b00d-7823-4f32-a321-3ec6af6a5ff0")
+    {
+      msg =  [{
+        id: "1",
+        body: "Hello, how can I be of service today?",
+        date: new Date().toLocaleDateString(),
+        timestamp: new Date().toLocaleTimeString(),
+        messageStatus: "DELIVERED",
+        isOpponent: true,
+      }]
+    }
+
     return {
       chatId: chatId,
-      messages: messages,
+      messages: msg,
       ok: true
     }
   }

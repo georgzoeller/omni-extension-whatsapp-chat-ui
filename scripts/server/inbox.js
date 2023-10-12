@@ -2,7 +2,7 @@
 
 const inbox= [
   {
-    id: "72fecbf3-0080-4134-91be-2c6f155aa503",
+    id: "0342b00d-7823-4f32-a321-3ec6af6a5ff0",
     name: "Alfred the LLM Butler",
     image: "/butler.png",
     lastMessage: "At your service!",
@@ -42,7 +42,10 @@ const script = {
     const sessionId = ctx.sessionId;
 
     return {
-      inbox: inbox,
+      inbox: inbox.map((item) => {
+        item.lastMessage = item.lastMessage.length<25 ? item.lastMessage :  item.lastMessage.substring(0, 22)+"...";
+        return  item
+      }),
       user:
       {
         name: "John Smith",
